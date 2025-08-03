@@ -19,7 +19,10 @@ A sleek and modern weather web application that displays real-time weather data 
 
 ## 📸 Preview
 
-![App Screenshot](images/clear.png)
+(images/image1.jpg)
+(images/image2.jpg)
+(images/image3.jpg)
+
 
 ## 🚀 How to Run
 

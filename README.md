@@ -19,9 +19,15 @@ A sleek and modern weather web application that displays real-time weather data 
 
 ## 📸 Preview
 
-(images/image1.jpg)
-(images/image2.jpg)
-(images/image3.jpg)
+## 📸 Preview
+
+Here are a few screenshots of the Weather App:
+
+<p align="center">
+  <img src="images/image1.jpg" width="300" alt="Screenshot 1" />
+  <img src="images/image2.jpg" width="300" alt="Screenshot 2" />
+  <img src="images/image3.jpg" width="300" alt="Screenshot 3" />
+</p>
 
 
 ## 🚀 How to Run

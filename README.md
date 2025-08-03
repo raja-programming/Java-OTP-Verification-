@@ -17,11 +17,6 @@ A sleek and modern weather web application that displays real-time weather data 
 - JavaScript
 - OpenWeatherMap API
 
-## 📸 Preview
-
-## 📸 Preview
-
-Here are a few screenshots of the Weather App:
 
 ## 📸 Preview
 

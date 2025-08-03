@@ -23,6 +23,10 @@ A sleek and modern weather web application that displays real-time weather data 
 
 Here are a few screenshots of the Weather App:
 
+## 📸 Preview
+
+Here are a few screenshots of the Weather App:
+
 <p align="center">
   <img src="images/image1.jpg" width="300" alt="Screenshot 1" />
   <img src="images/image2.jpg" width="300" alt="Screenshot 2" />

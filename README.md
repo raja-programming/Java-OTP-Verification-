@@ -4,11 +4,11 @@ A sleek and modern weather web application that displays real-time weather data 
 
 ## 🔍 Features
 
-- Live temperature, humidity, and wind speed
-- Search by city name
-- Weather icons based on conditions
-- Form validation for invalid inputs
-- Responsive UI with attractive design
+- 🌡️ Live temperature, humidity, and wind speed
+- 🏙️ Search by city name
+- 🌥️ Weather icons based on conditions
+- ❌ Form validation for invalid inputs
+- 📱 Responsive UI with attractive design
 
 ## 🛠️ Tech Stack
 
@@ -16,7 +16,6 @@ A sleek and modern weather web application that displays real-time weather data 
 - CSS
 - JavaScript
 - OpenWeatherMap API
-
 
 ## 📸 Preview
 
@@ -27,7 +26,6 @@ Here are a few screenshots of the Weather App:
   <img src="images/image2.jpg" width="300" alt="Screenshot 2" />
   <img src="images/image3.jpg" width="300" alt="Screenshot 3" />
 </p>
-
 
 ## 🚀 How to Run
 
